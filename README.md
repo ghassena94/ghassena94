@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ghassena94
-- 👀 I’m interested in Web development / data analytics / business informatics
-- 🌱 I’m currently learning business Informatics
-- 💞️ I’m looking to collaborate on small managment projects
+- 👋 Hi, I’m ghassen
+- 👀 I’m interested in AI & MCP / distributed systems
+- 🌱 I’m currently studying business Informatics
+- 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me www.linkedin.com/in/ghassen-aicha-702083268
 - 😄 Pronouns: JAr 
 - ⚡ Fun fact: Simalar to a JAR File Full with energy classes and smart AI neurons
